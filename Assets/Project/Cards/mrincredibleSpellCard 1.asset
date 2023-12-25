@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284c621826122824c8dd0c2a589831ea, type: 3}
+  m_Name: mrincredibleSpellCard 1
+  m_EditorClassIdentifier: 
+  cardName: mr incredible
+  imagePath: Sprites/Cards/mr incredible
+  info: 'DAMAGE ENEMY HERO: 4'
+  manaCost: 2
+  spellType: 4
+  spellValue: 4
+  spellTargetType: 0
